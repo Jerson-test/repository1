@@ -42,9 +42,9 @@ configuration = {
     'params': {
         # Read the documentation for more details on the kind of parameters and options available in SmartPredict.
         'operation': {
-            'label': 'Test',
+            'label': 'Calcul',
             'type': 'str',
-            'default': 'Addition',
+            'default': 'Fanampiana',
             'choices': ['Addition', 'Subtraction', 'Multiplication', 'Division'],
             'category': 'basic',
             'input-type': 'drop-down',
